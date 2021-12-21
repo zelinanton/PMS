@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+}
+.items{
+    width: 66%;
+    margin: 0 auto;
+}
+.item{
+    display: none;
+}
+.active{
+    display: block;
+}
